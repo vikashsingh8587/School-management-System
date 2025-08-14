@@ -4,7 +4,7 @@ spring:
   data:
     mongodb:
       database: studentSystem
-      uri : mongodb+srv://vikash123:vikash123@cluster1.n1okp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
+      uri : mongodb link
 jwt:
   secret: "TaK+HaV^uvCHEFsEVfypW#7g9^k*Z8$V"
   expiration: 3000000
